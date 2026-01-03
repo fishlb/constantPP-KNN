@@ -23,7 +23,7 @@ Run the following commands to install dependencies, build the project, and run t
 sudo apt-get update
 sudo apt-get install -y build-essential cmake libgmp-dev libgmpxx4ldbl libssl-dev
 
-# [Step 2] Build the project (Release mode enabled for performance)
+# [Step 2] Build the project
 git clone https://github.com/fishlb/constantPP-KNN.git
 cd constantPP-KNN
 mkdir evalResult build
